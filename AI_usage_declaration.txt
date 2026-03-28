@@ -1,0 +1,5 @@
+This is to hereby state that AI was used for the following actions in this project:
+
+1. Development of the GUI using Tkinter
+2. Make the code written by me readable and add usefull comments
+3. Write a Readme because I write terible Readme files.
