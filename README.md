@@ -164,7 +164,7 @@ Once training completes, a targeting terminal opens automatically.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/aimnet.git
+git clone https://github.com/ciada-3301/aimnet.git
 cd aimnet
 
 # Install dependencies (PyTorch + standard library only)
